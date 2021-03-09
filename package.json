@@ -1,0 +1,15 @@
+{
+  "name": "xiaoxintang.github.io",
+  "version": "1.0.0",
+  "repository": "git@github.com:xiaoxintang/xiaoxintang.github.io.git",
+  "author": "longan",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "serve": "vitepress serve"
+  },
+  "devDependencies": {
+    "vitepress": "^0.12.2"
+  }
+}
